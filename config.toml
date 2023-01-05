@@ -5,7 +5,7 @@ line-number = "relative"
 mouse = false
 cursorline = true
 color-modes = true
-rulers = [120]
+rulers = [80]
 bufferline = "multiple"
 
 [keys.normal]
