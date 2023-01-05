@@ -4,6 +4,7 @@ theme = "gruvbox"
 line-number = "relative"
 mouse = false
 cursorline = true
+color-modes = true
 rulers = [120]
 bufferline = "multiple"
 
