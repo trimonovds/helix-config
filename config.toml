@@ -8,6 +8,9 @@ color-modes = true
 rulers = [80]
 bufferline = "multiple"
 
+[editor.indent-guides]
+render = true
+
 [editor.lsp]
 display-messages = true
 
